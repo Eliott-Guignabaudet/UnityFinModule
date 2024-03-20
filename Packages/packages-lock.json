@@ -229,10 +229,11 @@
       "url": "https://packages.unity.com"
     },
     "com.ynov.final-project": {
-      "version": "file:C:/Users/yoyok/Documents/Ynov/B3/Unity/UnityFinModuleUnityPackage",
+      "version": "https://github.com/Eliott-Guignabaudet/UFMPackage.git",
       "depth": 0,
-      "source": "local",
-      "dependencies": {}
+      "source": "git",
+      "dependencies": {},
+      "hash": "17c5663a2ca835ef01a5898867839ee0d93b9b68"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
