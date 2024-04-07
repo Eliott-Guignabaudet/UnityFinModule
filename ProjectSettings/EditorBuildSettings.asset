@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Packages/com.ynov.final-project/Scenes/SampleScene.unity
     guid: c066a44ef4f1d3c45be559467d1d6214
+  - enabled: 1
+    path: Packages/com.ynov.final-project/Scenes/DedicatedServerScene.unity
+    guid: e96b677e72a564048932a47c68929c8c
   m_configObjects: {}
